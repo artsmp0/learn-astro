@@ -7,7 +7,7 @@ author: "Astro 学习者"
 image:
   url: "https://docs.astro.build/assets/full-logo-light.png"
   alt: "The full Astro logo."
-tags: ["astro", "blogging", "learning in public"]
+tags: ["astro", "blogging", "learning in public", "artsmp"]
 ---
 
 欢迎来到我学习关于 Astro 的新博客！在这里，我将分享我建立新网站的学习历程。
